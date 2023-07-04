@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/email.png</file>
+    <file>icons/icon-contato.png</file>
+    <file>icons/icons8-contacts-94.png</file>
+    <file>icons/icons8-greentech-94.png</file>
+    <file>icons/logo1.png</file>
+    <file>icons/logo4.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/menu1.png</file>
+    <file>icons/menu2.png</file>
+    <file>icons/source_image.txt</file>
+    <file>icons/whatsApp.png</file>
+    <file>icons/Youtube.png</file>
+  </qresource>
+</RCC>
